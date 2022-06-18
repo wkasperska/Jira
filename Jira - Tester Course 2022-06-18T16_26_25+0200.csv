@@ -1,0 +1,149 @@
+Podsumowanie,Klucz zgłoszenia,Id. zgłoszenia,Typ zgłoszenia,Status,Klucz projektu,Nazwa projektu,Typ projektu,Lider projektu,Opis projektu,Adres URL projektu,Priorytet,Rozwiązanie,Osoba przypisana,Osoba zgłaszająca,Twórca,Utworzono,Zaktualizowano,Ostatnio wyświetlane,Rozwiązane,Termin,Głosy,Opis,Środowisko,Obserwatorzy,Pierwotne oszacowanie,Pozostało (oszacowanie),Czas poświęcony,Stosunek pracy,Σ Pierwotne oszacowanie,Σ Pozostało (oszacowanie),Σ Czas poświęcony,Poziom zabezpieczeń,Załącznik,Pole własne (Automation Test Key),Pole własne (Epic Color),Pole własne (Epic Link),Pole własne (Epic Name),Pole własne (Epic Status),Pole własne (Iterations),Pole własne (Original story points),Pole własne (Parent Link),Pole własne (Path to log),Pole własne (Preconditions QAC),Pole własne (Priorytet PT),Pole własne (Przeglądarka),Pole własne (Rank),Pole własne (Reason),Pole własne (Recommendation),Pole własne (Software Version),Pole własne (Steps Progress),Pole własne (Steps progress QAC),Pole własne (Steps(deprecated)),Pole własne (Story),Pole własne (Story Points),Pole własne (TC Group),Pole własne (TC Status),Pole własne (TCT Change Alert),Pole własne (TP Progress),Pole własne (TP Status),Pole własne (Target end),Pole własne (Target start),Pole własne (Team),Pole własne (Test Case),Pole własne (Test Case Automation File),Pole własne (Test Case Execution),Pole własne (Test Case Resolution),Pole własne (Test Case Type),Pole własne (Test Environment),Pole własne (Test Plan),Pole własne (Test Plan Defects),Pole własne (Test Plan Flag),Pole własne (Test Plan Iteration),Pole własne (Test Plan progress),Pole własne (Test Repository folders),Pole własne (Test Result),Pole własne (Test Run Id),Pole własne (Test Suite),Pole własne (Test Suite progress),Pole własne (User roles),Pole własne (Warunek początkowy),Pole własne (Wersja Aplikacji)
+Nie można zapisać się na newsletter przy zakładaniu konta,ONLE10-268,159047,Błąd w programie,Do zrobienia,ONLE10,ONL_TEM_E_10,software,karol.smalz@coderslab.pl,,,Medium,,,w.kasperska@icloud.com,w.kasperska@icloud.com,18/cze/22 11:51 AM,18/cze/22 11:52 AM,18/cze/22 03:54 PM,,,0,"1. Środowisko:
+ - macOS Big Sur wersja 11.6
+
+ - Safari wersja 14.1.2 (16611.3.10.1.6)
+
+Warunki wstępne: obecność na stronie rejestracji [https://dev-mystore-testlab.coderslab.pl/index.php?controller=authentication&create_account=1]
+
+2. Kroki: 
+ - kliknięcie w checkbox ""Sign up for our newsletter""
+
+3. Oczekiwany rezultat: zaznaczenie opcji zapisu do newslettera
+
+4. Rzeczywisty rezultat: brak możliwości zaznaczenia checkboxa",,w.kasperska@icloud.com,,,,,,,,,,,,,,,,,,,,,,"0|y0mzow:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nie działa funkcja powiększenia zdjęcia produktu ,ONLE10-267,159030,Błąd w programie,Do zrobienia,ONLE10,ONL_TEM_E_10,software,karol.smalz@coderslab.pl,,,Low,,,w.kasperska@icloud.com,w.kasperska@icloud.com,18/cze/22 11:38 AM,18/cze/22 11:39 AM,18/cze/22 11:51 AM,,,0,"1. Środowisko:
+ - macOS Big Sur wersja 11.6
+
+ - Safari wersja 14.1.2 (16611.3.10.1.6)
+
+2. Warunki wstępne: obecność na dowolnej stronie z produktem
+
+3. Kroki:
+ - najazd kursorem na zdjęcie produktu
+
+ - kliknięcie w pojawiającą się ikonę lupy 
+
+4. Oczekiwany rezultat: pojawi się okienko z powiększonym podglądem obrazu
+
+5. Rzeczywisty rezultat: obraz nie pojawia się",,w.kasperska@icloud.com,,,,,,,,,,,,,,,,,,,,,,"0|y0mzl4:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Nie działa hyperlink ""Secure payments""",ONLE10-207,158926,Błąd w programie,Do zrobienia,ONLE10,ONL_TEM_E_10,software,karol.smalz@coderslab.pl,,,Lowest,,,w.kasperska@icloud.com,w.kasperska@icloud.com,11/cze/22 01:08 PM,18/cze/22 11:12 AM,18/cze/22 11:39 AM,,,0,"1. Środowisko:
+
+- macOS Big Sur wersja 11.6
+
+- Safari wersja 14.1.2 (16611.3.10.1.6)
+
+2. Warunki wstępne: obecność na dowolnej podstronie aplikacji i kliknięcie w ""Secure payments""
+
+3. Kroki:
+
+- Na dowolnej stronie scrollujemy na dół
+
+- W sekcji ""Our Company"" klikamy ""Secure Payment""
+
+4. Oczekiwany rezultat: przeniesienie do podstrony ""Secure payment""
+
+5. Rzeczywisty rezultat: przeładowanie aktualnej strony
+
+ ",,w.kasperska@icloud.com,,,,,,,,,,,,,,,,,,,,,,"0|y0myyw:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Linijka kodu widoczna na podstronie ""Best Sales""",ONLE10-201,158920,Błąd w programie,Do zrobienia,ONLE10,ONL_TEM_E_10,software,karol.smalz@coderslab.pl,,,Low,,,w.kasperska@icloud.com,w.kasperska@icloud.com,11/cze/22 01:00 PM,18/cze/22 11:13 AM,18/cze/22 11:17 AM,,,0,"1. Środowisko:
+
+- macOS Big Sur wersja 11.6
+
+- Safari wersja 14.1.2 (16611.3.10.1.6)
+
+2. Warunki wstępne: Obecność na stronie [https://dev-mystore-testlab.coderslab.pl/index.php?controller=best-sales]
+
+3. Kroki: 
+
+- na podstronie [https://dev-mystore-testlab.coderslab.pl/index.php?controller=best-sales] scrollujemy na dół strony
+
+4. Oczekiwany rezultat: brak widocznej linijki kodu u dołu strony
+
+5. Rzeczywisty rezultat: widoczna linijka kodu",,w.kasperska@icloud.com,,,,,,,,,"11/cze/22 01:00 PM;w.kasperska@icloud.com;Zrzut ekranu 2022-06-11 o 12.48.57.png;https://jira-course.coderslab.com/secure/attachment/35595/Zrzut+ekranu+2022-06-11+o+12.48.57.png",,,,,,,,,,,,,"0|y0myxk:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Błąd w pasku sortowania produktów ,ONLE10-197,158916,Błąd w programie,Do zrobienia,ONLE10,ONL_TEM_E_10,software,karol.smalz@coderslab.pl,,,Low,,,w.kasperska@icloud.com,w.kasperska@icloud.com,11/cze/22 12:46 PM,18/cze/22 11:14 AM,18/cze/22 11:17 AM,,,0,"1. Środowisko:
+ - macOS Big Sur wersja 11.6
+
+ - Safari wersja 14.1.2 (16611.3.10.1.6)
+
+2. Warunki wstępne: obecność na dowolnej podstronie z produktami
+
+3. Kroki:
+
+- na podstronie z produktami klikamy pasek ""Sort By""
+
+4. Oczekiwany rezultat: po kliknięciu w pasek sortowania wyświetlają się dostępne opcje 
+
+5. Rzeczywisty rezultat: po kliknięciu w pasek wyświetla się linijka kodu",,w.kasperska@icloud.com,,,,,,,,,"11/cze/22 12:46 PM;w.kasperska@icloud.com;Zrzut ekranu 2022-06-11 o 12.41.40.png;https://jira-course.coderslab.com/secure/attachment/35594/Zrzut+ekranu+2022-06-11+o+12.41.40.png",,,,,,,,,,,,,"0|y0mywo:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Błąd kontaktu przez formularz, przez brak możliwości wyboru tematu wiadomości w polu ""Subject""",ONLE10-190,158909,Błąd w programie,Do zrobienia,ONLE10,ONL_TEM_E_10,software,karol.smalz@coderslab.pl,,,Low,,,w.kasperska@icloud.com,w.kasperska@icloud.com,11/cze/22 12:38 PM,18/cze/22 11:15 AM,18/cze/22 11:19 AM,,,0,"1. Środowisko:
+ - macOS Big Sur wersja 11.6
+
+ - Safari wersja 14.1.2 (16611.3.10.1.6)
+
+2. Warunki wstępne: Obecność na stronie [https://dev-mystore-testlab.coderslab.pl/index.php?controller=contact]
+
+3. Kroki:
+
+- Uzupełniamy dostępne pola formularza kontaktowego
+
+- Klikamy ""send""
+
+4. Oczekiwany rezultat: pomyślne wysłanie wiadomości przez formularz kontaktowy po uzupełnieniu wszystkich pól
+
+5. Rzeczywisty rezultat: brak możliwości wysłania wiadomości spowodowany brakiem opcji do wyboru w polu ""Subject""
+
+ ",,w.kasperska@icloud.com,,,,,,,,,,,,,,,,,,,,,,"0|y0myvc:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brak możliwości zmiany waluty z euro na dolary,ONLE10-181,158900,Błąd w programie,Do zrobienia,ONLE10,ONL_TEM_E_10,software,karol.smalz@coderslab.pl,,,Medium,,,w.kasperska@icloud.com,w.kasperska@icloud.com,11/cze/22 12:31 PM,18/cze/22 11:17 AM,18/cze/22 11:22 AM,,,0,"1. Środowisko:
+ - macOS Big Sur wersja 11.6
+
+ - Safari wersja 14.1.2 (16611.3.10.1.6)
+
+2. Warunki wstępne: Obecność na stronie głównej [https://dev-mystore-testlab.coderslab.pl/index.php#] 
+
+3. Kroki:
+
+- Na stronie głównej, przy polu wyboru ""Currency"" rozwijamy pasek i klikamy USD
+
+4. Oczekiwany rezultat: po zmianie waluty z euro na dolary w polu wyboru, następuje aktualizacja cen w sklepie z uwzględnieniem stosunku kursu walut
+
+5. Rzeczywisty rezultat: aplikacja nie reaguje na kliknięcie w opcję USD
+
+ ",,w.kasperska@icloud.com,,,,,,,,,,,,,,,,,,,,,,"0|y0mytk:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Niedziałający hyperlink przenoszący na stronę główną,ONLE10-172,158891,Błąd w programie,Do zrobienia,ONLE10,ONL_TEM_E_10,software,karol.smalz@coderslab.pl,,,Medium,,,w.kasperska@icloud.com,w.kasperska@icloud.com,11/cze/22 12:21 PM,18/cze/22 11:23 AM,18/cze/22 11:23 AM,,,0,"1. Środowisko:
+ - macOS Big Sur wersja 11.6
+
+ - Safari wersja 14.1.2 (16611.3.10.1.6)
+
+2. Warunki wstępne: obecność na dowolnej podstronie aplikacji
+
+3. Kroki:
+
+- ze strony głównej [https://dev-mystore-testlab.coderslab.pl/index.php#] przechodzimy na dowolną podstronę
+
+- klikamy w ""my store""
+
+4. Oczekiwany rezultat: po kliknięciu w hyperlink ""my store"" zostajemy przeniesieni na stronę główną.
+
+5. Rzeczywisty rezultat: hyperlink nie reaguje na kliknięcie, nie zostajemy przeniesieni
+
+ ",,w.kasperska@icloud.com,,,,,,,,,,,,,,,,,,,,,,"0|y0mys0:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Brak możliwości rejestracji nowego klienta - zablokowane pole ""first name""",ONLE10-168,158887,Błąd w programie,Do zrobienia,ONLE10,ONL_TEM_E_10,software,karol.smalz@coderslab.pl,,,Highest,,w.kasperska@icloud.com,w.kasperska@icloud.com,w.kasperska@icloud.com,11/cze/22 12:11 PM,18/cze/22 11:24 AM,18/cze/22 11:24 AM,,,0,"1. Środowisko:
+ - macOS Big Sur wersja 11.6
+
+ - Safari wersja 14.1.2 (16611.3.10.1.6)
+
+2. Warunki wstępne: dostęp do domeny, brak konta w aplikacji
+
+3. Kroki:
+
+- Na stronie [https://dev-mystore-testlab.coderslab.pl/index.php#] klikamy ""Sign In""
+
+- Klikamy opcję utworzenia konta
+
+- Przystępujemy do wypełniania formularza
+
+4. Oczekiwany rezultat: pomyślne wypełnienie pól niezbędnych do rejestracji
+
+5. Rzeczywisty rezultat: brak możliwości założenia konta z powodu zablokowania jednego z pól (first name)
+
+ ",,w.kasperska@icloud.com,,,,,,,,,,,,,,,,,,,,,,"0|y0myr4:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
